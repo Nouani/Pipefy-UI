@@ -1,4 +1,3 @@
-<br />
 <p align="center">
   <img alt="Pipefy-Logo" src="https://user-images.githubusercontent.com/49238044/72225525-1d6eef80-3565-11ea-9d06-6454fe186b46.png"        width="650px" />
   <h3 align="center">> Pipefy interface clone with drag and drop functionality.</h3>
