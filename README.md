@@ -7,24 +7,24 @@
 ---
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Nouani/AirCnC.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Nouani/Pipefy-UI.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Nouani/AirCnC.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Nouani/Pipefy-UI.svg">
 
-  <a href="https://www.codacy.com/app/Nouani/AirCnC?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Nouani/AirCnC&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/app/Nouani/Pipefy-UI?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Nouani/Pipefy-UI&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/1b577a07dda843aba09f4bc55d1af8fc.svg">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Nouani/AirCnC.svg">
-  <a href="https://github.com/Nouani/AirCnC/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Nouani/AirCnC.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Nouani/Pipefy-UI.svg">
+  <a href="https://github.com/Nouani/Pipefy-UI/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Nouani/Pipefy-UI.svg">
   </a>
 
-  <a href="https://github.com/Nouani/AirCnC/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Nouani/AirCnC.svg">
+  <a href="https://github.com/Nouani/Pipefy-UI/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Nouani/Pipefy-UI.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/Nouani/AirCnC.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/Nouani/Pipefy-UI.svg">
 </p>
 
 
