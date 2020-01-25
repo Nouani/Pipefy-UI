@@ -6,78 +6,74 @@
 
 ---
 
-### Table of Contents
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Nouani/AirCnC.svg">
 
-- [Description](#description)
-- [How To Use](#how-to-use)
-- [References](#references)
-- [Author Info](#author-info)
-- [Operation demo video](#operation-demo-video)
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Nouani/AirCnC.svg">
 
----
+  <a href="https://www.codacy.com/app/Nouani/AirCnC?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Nouani/AirCnC&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/1b577a07dda843aba09f4bc55d1af8fc.svg">
+  </a>
 
-## Description
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Nouani/AirCnC.svg">
+  <a href="https://github.com/Nouani/AirCnC/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Nouani/AirCnC.svg">
+  </a>
 
-This application was used on the Pipefy front end highlighting the drag and drop cards feature for learning purposes.
+  <a href="https://github.com/Nouani/AirCnC/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Nouani/AirCnC.svg">
+  </a>
 
-#### Technologies
+  <img alt="GitHub" src="https://img.shields.io/github/license/Nouani/AirCnC.svg">
+</p>
 
-- React.js
 
----
-
-## How To Use
-
-#### Installation
-
-In your gitbash terminal:
-```
->   git clone https://github.com/Nouani/Pipefy-UI.git
-```
-
-On your open machine terminal in the Pipefy-UI folder:
-```
->   cd Pipefy-UI
-```
-```
->   yarn 
-    or 
->   npm
-```
-
-#### Start up
-
-```
->   yarn start 
-    or 
->   npm run start
-```
-
-#### Note: You must have react.js installed globally.
-
----
-
-## References
-
-- Rocketseat: https://rocketseat.com.br/
-- Facebook React.js: https://pt-br.reactjs.org/
-
----
-
-## Author Info
-
-- Twitter - [@sanches_coo](https://twitter.com/sanches_coo)
-- LinkedIn - [Nouani Sanches](https://www.linkedin.com/in/nouani-sanches-a8b39419b/m)
-
----
-
-<br />
-
-## Operation demo video:
+<p align="center">
+  <a href="#description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#references">References</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#author-info">Author Info</a>
+</p>
 
 <p align="center">
   <img alt="Pipefy-Logo" src="https://user-images.githubusercontent.com/49238044/72225590-e947fe80-3565-11ea-83a0-3ac7e667b498.gif"
   style="height: 10px;"/>
 </p>
 
-[Back To The Top](#read-me-template)
+## :page_with_curl: Description
+
+This application was used on the Pipefy front end highlighting the drag and drop cards feature for learning purposes.
+
+#### :rocket: Technologies
+
+- ReactJS
+
+## :information_source: How To Use
+
+```bash
+# Clone this repository
+$ git clone https://github.com/Nouani/Pipefy-UI.git
+
+# Go into the repository
+$ cd Pipefy-UI
+
+# Install dependencies 
+$ yarn install
+
+# Run the app
+$ yarn start
+```
+
+#### Note: You must have installed the Yarb package manager and ReactJS globally.
+
+## :blue_book: References
+
+- [Rocketseat](https://rocketseat.com.br/)
+- [ReactJS Documentation](https://reactjs.org/)
+
+## :person_with_blond_hair: Author Info
+
+- Twitter - [@sanches_coo](https://twitter.com/sanches_coo)
+- LinkedIn - [Nouani Sanches](https://www.linkedin.com/in/nouani-sanches-a8b39419b/m)
+
+
