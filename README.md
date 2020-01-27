@@ -63,7 +63,7 @@ $ yarn install
 $ yarn start
 ```
 
-#### Note: You must have installed the Yarb package manager and ReactJS globally.
+#### Note: You must have installed the Yarn package manager and ReactJS globally.
 
 ## :blue_book: References
 
